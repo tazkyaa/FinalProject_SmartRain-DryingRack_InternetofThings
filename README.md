@@ -1,5 +1,5 @@
-Nama proyek
-  Smart Rain-Aware Drying Rack Berbasis ESP32 dengan Sensor Hujan (FC-37), Sensor Kelembapan (DHT22), Motor Servo (SG90), dan Kipas DC
+# Nama proyek
+### Smart Rain-Aware Drying Rack Berbasis ESP32 dengan Sensor Hujan (FC-37), Sensor Kelembapan (DHT22), Motor Servo (SG90), dan Kipas DC
 
 Tema proyek
   Internet of Things (IoT) untuk Smart Home, khususnya otomasi perlindungan barang rumah tangga dari cuaca.
